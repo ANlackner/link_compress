@@ -1,0 +1,15 @@
+{
+    "name": "anlackner/link_composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ANlackner",
+            "email": "alackner@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "~v4.4"
+    }
+}
